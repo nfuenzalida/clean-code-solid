@@ -1,6 +1,6 @@
 (() => {
 
-    // Ejemplo Malos
+    // MAL EJEMPLOS
     // Archivos a evaluar - files to evaluate
     const fs = [
         { id: 1, f: false },
@@ -14,7 +14,7 @@
     // Archivos marcados para borrar - files to delete
     const arhivos = fs.map( f => f.f );
 
-    // Ejemplo Mejor
+    // BUEN EJEMPLO
     // Archivos a evaluar - files to evaluate
     const filesToEvualate = [
         { id: 1, flagged: false },
