@@ -67,4 +67,5 @@
     productBloc.saveProduct({ id: 10, name: 'OLED TV' });
     productBloc.notifyClients();
     cartBloc.addToCart(10);
+    
 })();
