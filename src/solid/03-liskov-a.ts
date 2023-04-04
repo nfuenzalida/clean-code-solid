@@ -27,17 +27,14 @@ import { Tesla, Audi, Toyota, Honda, Volvo, Vehicle, Ford } from './03-liskov-b'
             //     console.log( 'Honda', car.getNumberOfSeats() )
             //     continue;
             // }       
-
             // if( car instanceof Volvo ) {
             //     console.log( 'Volvo', car.getNumberOfSeats() )
             //     continue;
             // }      
-
             // if( car instanceof Ford ) {
             //     console.log( 'Ford', car.getNumberOfSeats() )
             //     continue;
             // }         
-
         // }
     }
     
